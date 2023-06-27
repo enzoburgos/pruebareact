@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   //todo js
 
-  let saludo= 'hola bienvenidos a mi web'
+  let saludo= 'hola bienvenidos a mi web 3.0'
   
   function hacerclick(params) {
     console.log('usted hizo click')  

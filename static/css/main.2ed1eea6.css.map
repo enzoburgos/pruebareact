@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2ed1eea6.css","mappings":"AAAA,OACI,qBAAsB,CACtB,YAAa,CACb,6BACJ","sources":["Header.css"],"sourcesContent":["header{\r\n    background-color: aqua;\r\n    display: flex;\r\n    justify-content: space-between;\r\n}"],"names":[],"sourceRoot":""}
